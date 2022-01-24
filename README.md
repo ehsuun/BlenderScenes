@@ -1,4 +1,4 @@
-<h1 align="center"> Blender Scenes </h1>
+<h1 align="center"> Blender Scenes for BlenderTok</h1>
 <p align="center">
 
 </p>
